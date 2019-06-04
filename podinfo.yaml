@@ -12,7 +12,6 @@ spec:
   project: default
   source:
     directory:
-      jsonnet:
       recurse: true
     path: /podinfo
     repoURL: https://github.com/Yggdrasil/podinfo-deploy
